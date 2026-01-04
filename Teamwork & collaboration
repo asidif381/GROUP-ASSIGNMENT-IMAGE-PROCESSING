@@ -1,0 +1,21 @@
+GROUP-2-ASSIGNMENT-IMAGE-PROCESSING
+
+Sir, for the Teamwork & Collaboration (20%) criteria, we divided our responsibilities to ensure clear coordination and effective completion of the assignment, which focuses on applying thresholding techniques on three different images:
+
+SITI FATIMAH BINTI ABDUL HAFFIDZ (Thresholding Analysis & Technical Implementation):
+
+Implemented and tested the thresholding techniques for all three images, ensuring correct segmentation results.
+
+Focused on Image 1 (kitab writing) by adjusting threshold values to clearly separate the text from the background.
+
+Handled Image 2 (hand-drawn sketch) by refining thresholding to preserve line details and reduce noise.
+
+TENGKU MOHAMAD AFHAM BIN TENGKU ZAKARIA (Image Selection, Evaluation & Documentation):
+
+Prepared and organized the three images, including Image 3 (hand-drawn sketch with colors), and analyzed how color information affects thresholding results.
+
+Evaluated the effectiveness of thresholding across all images and compared the segmentation outcomes.
+
+Managed the documentation, explanation, and presentation of results to ensure clarity and alignment with the assignment requirements.
+
+We worked collaboratively to discuss threshold selection, review segmentation results, and ensure that each image was processed accurately according to its characteristics.
